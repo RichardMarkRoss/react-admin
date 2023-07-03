@@ -240,7 +240,7 @@ const Dashboard = () => {
             p="15px"
           >
             <Typography color={colors.grey[100]} variant="h5" fontWeight="600">
-              Recent Transactions
+              Recents Tickets
             </Typography>
           </Box>
           {mockTransactions.map((transaction, i) => (
